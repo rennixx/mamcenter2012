@@ -4,7 +4,6 @@ import { useForm } from 'react-hook-form';
 import {
   FaHorse,
   FaTrophy,
-  FaDollarSign,
   FaAward,
   FaHeart,
   FaUsers,
